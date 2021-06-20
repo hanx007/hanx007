@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 A Computer Science UnderGrad
+- 🌱 Web Full Stack Development Enthusiast
+- 👯 Looking to contribute to Open Source
+- 😄 Pronouns: I write blogs as a hobby
