@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 Web Full Stack Development Enthusiast
 - 👯 Looking to contribute to Open Source
 - 😄 Pronouns: I write blogs as a hobby
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanx007)](https://github.com/anuraghazra/github-readme-stats)
